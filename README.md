@@ -1,1 +1,1 @@
-# Pliagrism-checker
+# Plagiarism-checker
